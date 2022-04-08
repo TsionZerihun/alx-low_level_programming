@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main entry point
- * Description: Print and then say wheather
+ * main - Print and then say wheather
  * its negative, positive or zero
  * Return: 0
  */
