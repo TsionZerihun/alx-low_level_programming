@@ -7,7 +7,7 @@
  *
  * Description: print a number, its last digit,
  * and wheather its negative, positive or zero
- * Return:0
+ * Return: 0
  */
 int main(void)
 {
