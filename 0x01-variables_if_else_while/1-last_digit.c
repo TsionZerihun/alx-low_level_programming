@@ -5,7 +5,8 @@
 /**
  * main entry point
  *
- * Description: print a number, its last digit, and wheather its negative, positive or zero
+ * Description: print a number, its last digit,
+ * and wheather its negative, positive or zero
  * Return:0
  */
 int main(void)
