@@ -4,7 +4,7 @@
 
 /**
  * main entry point
- * Description: Print and say wheather
+ * Description: Print and then say wheather
  * its negative, positive or zero
  * Return: 0
  */
