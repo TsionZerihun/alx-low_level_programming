@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* main - entry point
+/**
+ * main - entry point
  *
  * Description: print all number based in hexadecial
  * Return: 0
@@ -16,6 +17,6 @@ putchar(x);
 
 putchar('\n');
 
-return(0);
+return (0);
 }
 
