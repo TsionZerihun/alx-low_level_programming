@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * Main - Prints lower and upper case letter on one line
+ * Main - Description: prints lower and
+ * upper alphabet on the same line
  * Return: 0
  */
 int main(void)
