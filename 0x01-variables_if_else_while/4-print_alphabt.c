@@ -3,7 +3,7 @@
  * main - entry point
  *
  * Description: print all alphabet except e and q
- * Return: 
+ * Return: 0
  */
 int main(void)
 {
