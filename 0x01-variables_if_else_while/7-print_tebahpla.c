@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * ain -entry point
+ * main -entry point
  *
  * Description: print backwards and lower case alphabets
  * Return: 0
@@ -16,3 +16,4 @@ putchar(c);
 putchar('\n');
 
 return (0);
+}
