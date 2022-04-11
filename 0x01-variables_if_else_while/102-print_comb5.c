@@ -2,7 +2,7 @@
 
 /**
  * main - Prints all possible combinations of two two-digit numbers,
- * 	ranging from 0-99, separted by comma followed by space.
+ * ranging from 0-99, separted by comma followed by space.
  *
  * Return: Always 0.
  */
