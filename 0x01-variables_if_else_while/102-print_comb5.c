@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - entry point
- * Description: print all posible combination of two digit numbers
+ * main - entry point Description: print all posible combination of two digit numbers
  * Return: 0
  */
 int main(void)
