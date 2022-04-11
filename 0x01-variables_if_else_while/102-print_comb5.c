@@ -27,7 +27,7 @@ putchar(' ');
 putchar('0' + y1);
 putchar('0' + y2);
 
-if x1 !=9 || x2 != 8 y1 != 9 || y1 != 9)
+if (x1 !=9 || x2 != 8 y1 != 9 || y1 != 9)
 {
 putchar(',');
 putchar(' ');
