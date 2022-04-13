@@ -1,5 +1,6 @@
 #include "main.h"
-/**_abs: computes absolute value of interger
+/**
+ * _abs: computes absolute value of interger
  * @n: integer to be computed
  * Return: absolute vallue of the interger.
  */
