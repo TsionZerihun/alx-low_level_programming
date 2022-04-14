@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *main - test function that prints if interger is postitive or negativ
+ * main - test function that prints if interger is postitive or negativ
  * Return: 0
  */
 int main(void)
