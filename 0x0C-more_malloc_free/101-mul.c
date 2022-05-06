@@ -1,6 +1,6 @@
 /*
  * File: 101-mul.c
- * Auth: Tsion
+ * Auth: tsi
  */
 
 #include "main.h"
