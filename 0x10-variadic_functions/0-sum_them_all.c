@@ -3,7 +3,7 @@
 #include <stdarg.h>
 
 /**
- * sum_them_all - check the code for 
+ * sum_them_all - check the code for Holberton School students.
  * @n: number of arguments
  * Return: Always 0.
  */
