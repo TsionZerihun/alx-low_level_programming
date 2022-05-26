@@ -5,3 +5,5 @@
 #include <string.h>
 
 unsigned int binart_to_uint(const char *b);
+
+#endif
