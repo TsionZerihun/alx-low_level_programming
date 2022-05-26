@@ -1,7 +1,8 @@
 #include "main.h"
-/*
- * _powof - function that returns the
+/**
+ * _pow - function that returns the
  * value of x raise to y
+ *
  * @x - parameter to base
  * @y - parameter to exponent
  * 
@@ -10,13 +11,14 @@
 int _pow(int x, int y)
 {
 if (y < 0)
+{
 return (-1);
 }
 else if (y == 0)
 {
 return (1);
 }
-else
+else	
 {
 y--;
 x = x* _pow(x, y);
