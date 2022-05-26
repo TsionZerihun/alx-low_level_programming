@@ -10,21 +10,21 @@
  */
 int _pow(int x, int y)
 {
-if (y < 0)
-{
-return (-1);
-}
-else if (y == 0)
-{
-return (1);
-}
-else	
-{
-y--;
-x = x* _pow(x, y);
-return (x);
-}
-return (0);
+	if (y < 0)
+	{
+	return (-1);
+	}
+	else if (y == 0)
+	{
+	return (1);
+	}
+	else	
+	{
+		y--;
+		x = x* _pow(x, y);
+		return (x);
+	}
+	return (0);
 }
 /**
  * binart_to_uint - function covnerting binary to int
@@ -33,14 +33,16 @@ return (0);
  * Return: The num converted
  */
 unsigned int binary_to_uint(const char *b)
+{
 	unsigned int sum = 0;
 	int i, n, x;
 
 	if (b == NULL)
-{
+	{
 	return (0);
-}
-n = strlen(b) - 1;
+	}
+	n = strlen(b) - 1;
+	
 for (x= 0, i = 0; n >= x; n--)
 {
 	switch (b[i])
