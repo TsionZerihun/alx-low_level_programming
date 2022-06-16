@@ -1,1 +1,1 @@
-my first readme
+this is a skeleton readme for single linked lists
